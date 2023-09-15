@@ -4,13 +4,14 @@
 		"url": "https://explorer.doric.network/",
 		"group": "Mainnets",
 		"isActive": true,
-		"icon": "https://raw.githubusercontent.com/Doric-Blockchain/explorer-frontend-configs/main/configs/network-icons/drc.svg"
+		"icon": "https://raw.githubusercontent.com/Doric-Blockchain/explorer-frontend-configs/main/configs/network-icons/drc_light.svg",
+		"invertIconInDarkMode": true
 	},
 	{
 		"title": "Doric",
 		"url": "https://testnet-explorer.doric.network/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/Doric-Blockchain/explorer-frontend-configs/main/configs/network-icons/drc.svg",
+		"icon": "https://raw.githubusercontent.com/Doric-Blockchain/explorer-frontend-configs/main/configs/network-icons/drc_light.svg",
 		"invertIconInDarkMode": true
 	}
 ]
