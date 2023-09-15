@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Documentation",
+        "url": "https://docs.doric.network/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/Doric-Blockchain"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/doricnetwork"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/qKeCurzZRu"
+      },
+      {
+        "text": "Blog",
+        "url": "https://medium.com/@community_60496"
+      }
+    ]
+  },
+  {
+    "title": "About Doric",
+    "links": [
+      {
+        "text": "About",
+        "url": "https://doric.network/about.html"
+      }
+    ]
+  }
+]

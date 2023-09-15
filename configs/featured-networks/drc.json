@@ -1,0 +1,16 @@
+[
+	{
+		"title": "Doric",
+		"url": "https://explorer.doric.network/",
+		"group": "Mainnets",
+		"isActive": true,
+		"icon": "https://raw.githubusercontent.com/Doric-Blockchain/explorer-frontend-configs/main/configs/network-icons/drc.svg"
+	},
+	{
+		"title": "Doric",
+		"url": "https://testnet-explorer.doric.network/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/Doric-Blockchain/explorer-frontend-configs/main/configs/network-icons/drc.svg",
+		"invertIconInDarkMode": true
+	}
+]

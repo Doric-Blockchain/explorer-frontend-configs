@@ -1,0 +1,58 @@
+[
+   {
+      "author":"Doric",
+      "id":"wallet",
+      "title":"Wallet",
+      "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/wallet.png",
+      "categories":[
+         "Wallet"
+      ],
+      "shortDescription":"The wallet has been fully developed in our own blockchain Possible to send, receive and store crypto assets safely.",
+      "site":"https://wallet.doric.network/#/welcome/",
+      "description":"The wallet has been fully developed in our own blockchain Possible to send, receive and store crypto assets safely.",
+      "url":"https://wallet.doric.network/#/welcome/",
+      "external":true
+   },
+   {
+      "author":"Doric",
+      "id":"creator",
+      "title":"Token Creator",
+      "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/token_creator.png",
+      "categories":[
+         "Infra & Dev tooling"
+      ],
+      "shortDescription":"Effortless token creator for blockchain assets.",
+      "site":"https://creator.doric.network/",
+      "description":"Effortless token creator for blockchain assets.",
+      "url":"https://creator.doric.network/",
+      "external":true
+   },
+   {
+      "author":"Doric",
+      "id":"exchange",
+      "title":"Exchange",
+      "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/exchange.png",
+      "categories":[
+         "CeFi"
+      ],
+      "shortDescription":"Seamless crypto trading. As a user-first Blockchain, Doric aims to make exchanging crypto a better experience!",
+      "site":"https://doric.exchange/",
+      "description":"Seamless crypto trading. As a user-first Blockchain, Doric aims to make exchanging crypto a better experience!",
+      "url":"https://doric.exchange/",
+      "external":true
+   },
+   {
+      "author":"Doric",
+      "id":"creator",
+      "title":"List Token Creator",
+      "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/list_token_creator.png",
+      "categories":[
+         "Infra & Dev tooling"
+      ],
+      "shortDescription":"Revolutionary token creator automates exchange listings.",
+      "site":"https://doric.exchange/tokenization-landing-page",
+      "description":"Revolutionary token creator automates exchange listings.",
+      "url":"https://doric.exchange/tokenization-landing-page",
+      "external":true
+   },
+]
