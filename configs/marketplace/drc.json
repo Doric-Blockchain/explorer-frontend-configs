@@ -3,7 +3,7 @@
       "author":"Doric",
       "id":"wallet",
       "title":"Wallet",
-      "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/wallet.png",
+      "logo":"https://raw.githubusercontent.com/Doric-Blockchain/explorer-frontend-configs/main/configs/marketplace-logos/wallet.png",
       "categories":[
          "Wallet"
       ],
@@ -17,7 +17,7 @@
       "author":"Doric",
       "id":"creator",
       "title":"Token Creator",
-      "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/token_creator.png",
+      "logo":"https://raw.githubusercontent.com/Doric-Blockchain/explorer-frontend-configs/main/configs/marketplace-logos/token_creator.png",
       "categories":[
          "Infra & Dev tooling"
       ],
@@ -31,7 +31,7 @@
       "author":"Doric",
       "id":"exchange",
       "title":"Exchange",
-      "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/exchange.png",
+      "logo":"https://raw.githubusercontent.com/Doric-Blockchain/explorer-frontend-configs/main/configs/marketplace-logos/exchange.png",
       "categories":[
          "CeFi"
       ],
@@ -45,7 +45,7 @@
       "author":"Doric",
       "id":"creator",
       "title":"List Token Creator",
-      "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/list_token_creator.png",
+      "logo":"https://raw.githubusercontent.com/Doric-Blockchain/explorer-frontend-configs/main/configs/marketplace-logos/list_token_creator.png",
       "categories":[
          "Infra & Dev tooling"
       ],
